@@ -7,5 +7,3 @@ repo de test compartido
 pull request intento -juli
 update desde mi branchita -juli
 update 2 desde mi branchita -juli
-
-invado la branchita de juli >:D
