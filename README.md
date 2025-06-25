@@ -5,3 +5,6 @@ repo de test compartido
  
 # read me
 pull request intento -juli
+
+# pull joaquín
+acá trato de mandar cositas.
