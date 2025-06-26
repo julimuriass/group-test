@@ -12,3 +12,6 @@ intento de push seba
 update desde mi branchita -juli
 # pull joaquín
 acá trato de mandar cositas.
+
+
+aca hago cambios despues del merge -seba
